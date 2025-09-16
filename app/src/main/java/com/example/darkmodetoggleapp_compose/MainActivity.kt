@@ -48,7 +48,7 @@ fun DarkModeToggleApp() {
         Column(
             Modifier
                 .fillMaxSize()
-                .padding(16.dp)
+                .padding(100.dp)
         ) {
             Row(
                 modifier = Modifier.fillMaxWidth(),
